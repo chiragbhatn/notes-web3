@@ -1,0 +1,14 @@
+in bitcoin all computers store big ledger/database of who owns how many bitcoins(uses proof of work)
+
+ethereum does the same what it does extra is lets you program on top of blockchain
+
+so instead of using aws/ google cloud we could use ethereum that will one be open source ie everyone in the blockchain can see the backend algos
+2ndly we would know that this open spurced code backend is the one actually running 
+
+why would we do this ?
+so there is no centeralized authority making decisions for us 
+like google deciding what to show n what to not as they could show videos promoting a political party and that can have impact.
+
+ETH is moving towards using proof of stake 
+
+
